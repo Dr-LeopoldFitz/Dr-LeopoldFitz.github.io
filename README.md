@@ -1,5 +1,5 @@
 # GideonMalick.github.io
-PSQQQ
+PSQQQ ->
 https://gideonmalick.github.io/
 
 ```
@@ -14,6 +14,4 @@ https://gideonmalick.github.io/
    \  \:\          /__/:/   \  \:\__|:|   \  \:\/:/
     \  \:\         \__\/     \__\::::/     \  \::/
      \__\/                       ~~~~       \__\/
-
-
 ```
