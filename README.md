@@ -1,6 +1,6 @@
 # GideonMalick.github.io
 PSQQQ ->
-https://Dr-LeopoldFitz.github.iok.github.io/
+https://Dr-LeopoldFitz.github.io/
 
 ```
       ___                                    ___
