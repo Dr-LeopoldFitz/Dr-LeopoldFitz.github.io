@@ -1,6 +1,8 @@
 # GideonMalick.github.io
 PSQQQ ->
+
 Centos: https://Dr-LeopoldFitz.github.io/
+
 计算方法: https://dr-leopoldfitz.github.io/calcuMethod.html
 
 ```
